@@ -1,0 +1,3 @@
+load carsmall
+
+table('Weight')
